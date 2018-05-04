@@ -7,8 +7,8 @@ Basic Information
 - Authors: Samuel Coache, Samantha Comeau, William Schwartz
 - Emails: sccoache@wpi.edu, sjcomeau@wpi.edu, wrschwartz@wpi.edu
 - Github Usernames: sccoache, sjcomeau43543, williambannas
-- Repository: https://github.com/sjcomeau43543/DataVisFinal
-- Visualization: https://sjcomeau43543.github.io/DataVisFinal/
+- Repository: https://github.com/sccoache/World-Happiness-Visualization
+- Visualization: https://sccoache.github.io/World-Happiness-Visualization/
 - Video: https://www.youtube.com/watch?v=BOrOJ-dzpkg
 - Process book: https://github.com/sjcomeau43543/DataVisFinal/blob/master/ProcessBook.pdf
 
