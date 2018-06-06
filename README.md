@@ -1,16 +1,11 @@
 Happiness
 ===
 
+
 Basic Information
 ---
-- Project title: Happiness
-- Authors: Samuel Coache, Samantha Comeau, William Schwartz
-- Emails: sccoache@wpi.edu, sjcomeau@wpi.edu, wrschwartz@wpi.edu
-- Github Usernames: sccoache, sjcomeau43543, williambannas
-- Repository: https://github.com/sccoache/World-Happiness-Visualization
-- Visualization: https://sccoache.github.io/World-Happiness-Visualization/
-- Video: https://www.youtube.com/watch?v=BOrOJ-dzpkg
-- Process book: https://github.com/sjcomeau43543/DataVisFinal/blob/master/ProcessBook.pdf
+- Site Link: https://sccoache.github.io/Worldwide_Happiness_Visualization/
+
 
 Overview
 ---
@@ -21,7 +16,6 @@ The first is a choropleth map showing the reported happiness of each country usi
 The second interaction was our most experimental interaction. We created a cluster chart of all the countries with reported happiness data. Using the same blue color scale from the map to relate to the reported happiness. We also arranged the data in this chart to show the countries organized from unhappy to happy. Hovering over these points displays a tooltip, which like previous displays the country name and the reported happiness score. Sliders for each of our factors are presented on the side of cluster chart and are used to filter counties that are displayed, and give the user a chance to explore and look for correlation between factors on their own.
 
 The third section, is a series of sorted colored bar charts, where the color corresponds to the value, presenting the data this way gives the user somewhat of an indication of the distribution of each of the factors very quickly. The graphic also serves to show easily how countries rank in specific categories. When hovering over a specific bar, you the bar gets highlighted, and the same country also gets highlighted in all the other factors charts, and  see how countries compare to one another. Like in the other sections the mouse over also displays a tooltip, to show the country name as well as well as displaying the value of that factor selected.
-
 
 
 Outside Libraries/References
