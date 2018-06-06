@@ -34,10 +34,3 @@ https://d3js.org/topojson.v1.min.js
 
 https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
 
-Teams
----
-Samuel - Data cleaning, Stylistic Decision Making, Refining of Visualizations
-
-Samantha - Project Management, Creating Visualizations, Data Processing
-
-William - Created Visualizations, Made Interactions, Data Exploration
