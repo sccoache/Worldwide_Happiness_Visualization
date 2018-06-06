@@ -1,5 +1,6 @@
 Happiness
 ===
+by Sam Coache, Samantha Comeau, and William Schwartz
 
 
 Website Link
