@@ -2,9 +2,9 @@ Happiness
 ===
 
 
-Basic Information
+Website Link
 ---
-- Site Link: https://sccoache.github.io/Worldwide_Happiness_Visualization/
+- https://sccoache.github.io/Worldwide_Happiness_Visualization/
 
 
 Overview
